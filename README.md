@@ -6,5 +6,5 @@ In this project i will try to build a deep learning model that will be trained o
 
 This is clearly an application of Recurrent Neural Network (RNN). This is because we need a model that will store the information from the previous text and use it later to predict the output. Hence, we will use the Long Short-Term Memory (LSTM) algorithm with Tensorflow to train our model.
 
-Of note: The deep learning model is built using TensorFlow, a popular open-source library for machine learning. The model architecture utilizes an LSTM layer to process the sequence of tokens representing the patient’s symptoms. 
+Of note: The deep learning model is built using TensorFlow, a popular open-source library for machine learning. The model architecture utilizes an LSTM layer to process the sequence of tokens representing the patient’s symptoms. It is recommended to run the notebook on Google Colab.
 
